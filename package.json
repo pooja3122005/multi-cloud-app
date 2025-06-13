@@ -17,5 +17,8 @@
     "url": "https://github.com/pooja3122005/multi-cloud-app/issues"
   },
   "homepage": "https://github.com/pooja3122005/multi-cloud-app#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
